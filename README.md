@@ -5,5 +5,4 @@ This is a fork of the Bento startpage, made by MiguelRAvilla, complete with Nord
 Either fork the repo and create a Github Pages website with source selected as master, or use this link: https://burninggrip3.github.io/Bento/
 
 
-
-file:///home/amrtariq/Pictures/Screenshot_20201103_203317.png
+![screenshot](https://github.com/BurningGrip3/Bento-Nord/blob/master/screenshot/scrnshot.png)
