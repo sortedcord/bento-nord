@@ -7,8 +7,8 @@
     --fses: 18px;
 
     /* Light theme  */
-    --accent: #5e81ac;
-    --bg: #353c4a;
+    --accent: #2D2D2D;
+    --bg: #000;
     --sbg: #3b4252;
     --fg: #e5e9f0;
 
@@ -35,8 +35,8 @@
 
 /* Dark theme  */
 .darktheme {
-    --accent: #5e81ac;
-    --bg: #2D2D2D;
+    --accent: #2D2D2D;
+    --bg: #000;
     --sbg: #2e3440;
     --fg: #d8dee9;
     --imgcol: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
